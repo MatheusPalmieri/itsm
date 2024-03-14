@@ -9,7 +9,7 @@ import { theme } from "@/globals/styles/theme";
 
 export const metadata: Metadata = {
   title: "Dashboard",
-  description: "Dashboard interno equipe Btix.",
+  description: "Dashboard interno equipe Backstage.",
 };
 
 export default function RootLayout({

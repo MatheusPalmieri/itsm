@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <main>
-      <h1>Btix</h1>
+      <h1>Backstage ITSM</h1>
     </main>
   );
 }
